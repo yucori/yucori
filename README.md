@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=368DA8&height=250&text=yucori&fontColor=353839&fontSize=90&fontAlignY=37"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=368DA8&height=230&text=yucori&fontColor=353839&fontSize=90&fontAlignY=37"/>
 </div>
 
 * * *
