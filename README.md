@@ -39,8 +39,8 @@ Here are some ideas to get you started:
 	<div align="left">
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
   	<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" />
-	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 	<img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white" />
+	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 	<p>&nbsp</p>
   	<p>🔥 Studying</p>
   	<img src="https://img.shields.io/badge/Java-E34F26?style=flat&logo=Java&logoColor=white" />
