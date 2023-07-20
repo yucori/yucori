@@ -65,9 +65,9 @@ Here are some ideas to get you started:
 	<p>&nbsp</p>
 	<p>📖History</p>
 	<p>[20.02 ~ ]&nbsp&nbspmajor in Psychology&Computer Engineering</p>
-	<p>[23.01 ~ 23.04]&nbsp&nbsp>Wecode bootcamp Back-end</p>
-	<p>[23.04 ~ 23.05]&nbsp&nbspAswemake Back-end intern</p>
-	<p>[23.07 ~ ]&nbsp&nbspnipa 주관 AI+웹개발 취업캠프 Back-end</p>
+	<p>[23.01 ~ 23.04]&nbsp&nbsp>Wecode bootcamp Back-End</p>
+	<p>[23.04 ~ 23.05]&nbsp&nbspAswemake Back-End Intern</p>
+	<p>[23.07 ~ ]&nbsp&nbspnipa 주관 AI+웹개발 취업캠프 Back-End</p>
 </div>
 
 
