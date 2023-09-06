@@ -46,6 +46,7 @@ Here are some ideas to get you started:
   	<img src="https://img.shields.io/badge/Java-E34F26?style=flat&logo=Java&logoColor=white" />
 	<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white" />
 	<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" />
+	<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white" />
 	</div>
 </div>
 
