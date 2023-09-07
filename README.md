@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 
 <div align="left">
   <p>&nbsp</p>
-  <p>&nbsp</p>
   <p>📚 Tech Stack 📚</p>
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
@@ -64,20 +63,20 @@ Here are some ideas to get you started:
 
 <div align="left">
 	<p>&nbsp</p>
-	<p>&nbsp</p>
-	<p>📖History</p>
-	<p>[20.03 ~ ]&nbsp&nbspmajor in Psychology&Computer Engineering</p>
-	<p>[23.01 ~ 23.04]&nbsp&nbsp>Wecode bootcamp Back-End</p>
-	<p>[23.04 ~ 23.05]&nbsp&nbspAswemake Back-End Intern</p>
-	<p>[23.07 ~ ]&nbsp&nbspnipa 주관 AI+웹개발 취업캠프 Back-End</p>
+	<p>📖&nbspHistory</p>
+	<p>1.&nbsp Double majoring Psychology&Computer Engineering&nbsp(2020&nbsp-&nbsp)</p>
+	<p>2.&nbsp>Wecode bootcamp Back-End&nbsp(2023.01&nbsp-&nbsp2023.04)</p>
+	<p>3.&nbspAswemake Back-End Intern&nbsp(2023.04&nbsp-&nbsp2023.05)</p>
+	<p>4.&nbspnipa 주관 AI+web development camp Back-End&nbsp(2023.07&nbsp-&nbsp)</p>
 </div>
 
-
+<!--
 <div align="left">
   <p>&nbsp</p>
   <p>🐹 SNS </p>
   <a href="https://yucori.tistory.com">Tistory</a>
 </div>
+-->
 
 <div align="center">
   <p>&nbsp</p>
