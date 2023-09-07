@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </div>
 
 * * *
-<div align="center">
+<div align="">
   <p>👩🏻‍💻 Backend Developer</p>
   <p>🎓 Psychology & Computer Engineering</p>
 </div>
