@@ -78,10 +78,12 @@ Here are some ideas to get you started:
 </div>
 -->
 
-<div align="center">
+<div align="left">
   <p>&nbsp</p>
   <p>&nbsp</p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yucori&layout=compact">
   <span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
+  <!--
   <img src="https://github-readme-stats.vercel.app/api?username=yucori&show_icons=true">
+  -->
 </div>
