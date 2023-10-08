@@ -67,7 +67,13 @@ Here are some ideas to get you started:
 	<p>1.&nbsp Double majoring Psychology&Computer Engineering&nbsp(2020&nbsp-&nbsp)</p>
 	<p>2.&nbsp>Wecode bootcamp Back-End&nbsp(2023.01&nbsp-&nbsp2023.04)</p>
 	<p>3.&nbspAswemake Back-End Intern&nbsp(2023.04&nbsp-&nbsp2023.05)</p>
-	<p>4.&nbspnipa 주관 AI+web development camp Back-End&nbsp(2023.07&nbsp-&nbsp)</p>
+	<p>4.&nbspnipa 주관 AI+web development camp Back-End&nbsp(2023.07&nbsp-&nbsp2023.09)</p>
+</div>
+
+<div align="left">
+	<p>&nbsp</p>
+	<p>✍️&nbspCertification</p>
+	<p>1.&nbsp SQL Developer&nbsp-&nbspqualified by Korea Data Agency&nbsp(2023.10.06)</p>
 </div>
 
 <!--
