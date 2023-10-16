@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 * * *
 -->
 <div align="">
-  <p>👩🏻‍💻 Backend Developer</p>
-  <p>🎓 Psychology & Computer Engineering</p>
+  <h3>👩🏻‍💻 Backend Developer</h3>
+  <h3>🎓 Psychology & Computer Engineering</h3>
 </div>
 
 
