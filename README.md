@@ -20,15 +20,13 @@ Here are some ideas to get you started:
 
 * * *
 -->
-<div align="">
-  <h3>👩🏻‍💻 Backend Developer</h3>
-  <h3>🎓 Psychology & Computer Engineering</h3>
-</div>
+**👩🏻‍💻 Backend Developer**   
+**🎓 Psychology & Computer Engineering**   
 
+---
 
+📚 Tech Stack
 <div align="left">
-  <p>&nbsp</p>
-  <p>📚 Tech Stack</p>
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
@@ -41,7 +39,10 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white" />
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 	<p>&nbsp</p>
-  	<p>🔥 Studying</p>
+</div>
+
+🔥 Studying
+<div>
   	<img src="https://img.shields.io/badge/Java-E34F26?style=flat&logo=Java&logoColor=white" />
 	<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white" />
 	<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" />
@@ -61,20 +62,18 @@ Here are some ideas to get you started:
 </div>
 -->
 
-<div align="left">
-	<p>&nbsp</p>
-	<p>📖&nbspHistory</p>
-	<p>1.&nbsp Double majoring Psychology&Computer Engineering&nbsp(2020&nbsp-&nbsp)</p>
-	<p>2.&nbsp>Wecode bootcamp Back-End&nbsp(2023.01&nbsp-&nbsp2023.04)</p>
-	<p>3.&nbspAswemake Back-End Intern&nbsp(2023.04&nbsp-&nbsp2023.05)</p>
-	<p>4.&nbspnipa 주관 AI+web development camp Back-End&nbsp(2023.07&nbsp-&nbsp2023.09)</p>
-</div>
+<p>&nbsp</p>
 
-<div align="left">
-	<p>&nbsp</p>
-	<p>✍️&nbspCertification</p>
-	<p>1.&nbsp SQL Developer&nbsp-&nbspqualified by Korea Data Agency&nbsp(2023.10.06)</p>
-</div>
+📖 History
+1. Double majoring Psychology&Computer Engineering (2020 - )
+2. Wecode bootcamp Back-End (2023.01 - 2023.04)
+3. Aswemake Back-End Intern (2023.04 - 2023.05)
+4. nipa 주관 AI+web development camp Back-End (2023.07 - 2023.09)
+
+<p>&nbsp</p>
+✍️ Certification   
+
+1. SQL Developer - qualified by Korea Data Agency (2023.10.06)
 
 <!--
 <div align="left">
