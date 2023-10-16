@@ -13,22 +13,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=368DA8&height=230&text=yucori&fontColor=353839&fontSize=90&fontAlignY=37"/>
 </div>
 
 * * *
+-->
 <div align="">
   <p>👩🏻‍💻 Backend Developer</p>
   <p>🎓 Psychology & Computer Engineering</p>
 </div>
 
-- - -
 
 <div align="left">
   <p>&nbsp</p>
-  <p>📚 Tech Stack 📚</p>
+  <p>📚 Tech Stack</p>
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
