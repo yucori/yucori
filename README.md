@@ -38,10 +38,10 @@ Here are some ideas to get you started:
   	<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" />
 	<img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white" />
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
-	<p>&nbsp</p>
 </div>
 
-🔥 Studying
+<br>
+🔥 Studying<br><br>
 <div>
   	<img src="https://img.shields.io/badge/Java-E34F26?style=flat&logo=Java&logoColor=white" />
 	<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white" />
@@ -62,18 +62,18 @@ Here are some ideas to get you started:
 </div>
 -->
 
-<p>&nbsp</p>
+<br>
 
 📖 History
 1. Double majoring Psychology&Computer Engineering (2020 - )
 2. Wecode bootcamp Back-End (2023.01 - 2023.04)
 3. Aswemake Back-End Intern (2023.04 - 2023.05)
 4. nipa 주관 AI+web development camp Back-End (2023.07 - 2023.09)
+<br>
 
-<p>&nbsp</p>
-✍️ Certification   
-
+🌟 Certification
 1. SQL Developer - qualified by Korea Data Agency (2023.10.06)
+   
 
 <!--
 <div align="left">
@@ -84,7 +84,6 @@ Here are some ideas to get you started:
 -->
 
 <div align="left">
-  <p>&nbsp</p>
   <p>&nbsp</p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yucori&layout=compact">
   <span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
