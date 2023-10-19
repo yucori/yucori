@@ -73,7 +73,9 @@ Here are some ideas to get you started:
 
 🌟 Certification
 1. SQL Developer - qualified by Korea Data Agency (2023.10.06)
-   
+
+🐹 Blog
+1. Tistory -> <a href="https://yucori.tistory.com">https://yucori.tistory.com</a>
 
 <!--
 <div align="left">
