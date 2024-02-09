@@ -1,19 +1,4 @@
 <!--
-### Hi there 👋
-**yucori/yucori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!--
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=368DA8&height=230&text=yucori&fontColor=353839&fontSize=90&fontAlignY=37"/>
 </div>
@@ -24,7 +9,6 @@ Here are some ideas to get you started:
 **🎓 Psychology & Computer Engineering**   
 
 ---
-
 📚 Tech Stack
 <div align="left">
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
