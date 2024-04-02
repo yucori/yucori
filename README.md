@@ -51,7 +51,7 @@
 2. Wecode bootcamp Back-End (2023.01 - 2023.04)
 3. Aswemake Back-End Intern (2023.04 - 2023.05)
 4. nipa 주관 AI+web development camp Back-End (2023.07 - 2023.09)
-5. AWS Cloud Club (2023.11 - )
+5. AWS Cloud Club 1st ~ 2nd (2023.11 - )
 <br>
 
 🌟 Certification
