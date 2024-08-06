@@ -68,6 +68,7 @@ Sub
 
 🌟 Certification
 1. SQL Developer - qualified by Korea Data Agency (2023.10.06)
+2. Engineer Information Processing - qualified by Human Resources Development Service of Korea (2024.06.18)
 </br>
 
 🐹 Blog
