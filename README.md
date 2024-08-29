@@ -66,7 +66,7 @@ Sub
 5. AWS Cloud Club (2023.11 - )
 <br>
 
-🌟 Certification
+🌟 Certifications
 1. SQL Developer - qualified by Korea Data Agency (2023.10.06)
 2. Engineer Information Processing - qualified by Human Resources Development Service of Korea (2024.06.18)
 3. JLPT(N3) (2024.08.13)
