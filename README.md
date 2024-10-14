@@ -4,6 +4,10 @@
 </div>
 
 * * *
+
+2. Wecode bootcamp Back-End (2023.01 - 2023.04)
+3. Aswemake Back-End Intern (2023.04 - 2023.05)
+4. nipa 주관 AI+web development camp Back-End (2023.07 - 2023.09)
 -->
 **👩🏻‍💻 Backend Developer**   
 **🎓 Psychology & Computer Engineering**   
@@ -14,7 +18,7 @@
 Main
 <div align="left">
 	<img src="https://img.shields.io/badge/Java-E34F26?style=flat&logo=Java&logoColor=white" />
-	<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white" />
+	
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
         
@@ -60,10 +64,7 @@ Sub
 
 📖 Activities
 1. Double major in Psychology & Computer Engineering (2020 - 2024.02)
-2. Wecode bootcamp Back-End (2023.01 - 2023.04)
-3. Aswemake Back-End Intern (2023.04 - 2023.05)
-4. nipa 주관 AI+web development camp Back-End (2023.07 - 2023.09)
-5. AWS Cloud Club (2023.11 - )
+2. AWS Cloud Club (2023.11 - )
 <br>
 
 🌟 Certifications
