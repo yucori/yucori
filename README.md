@@ -66,8 +66,8 @@ Sub
 1. Double major in Psychology & Computer Engineering (2020 - 2024.02)
 2. Wecode bootcamp Back-End (2023.01 - 2023.04)
 3. Aswemake Back-End Intern (2023.04 - 2023.05)
-4. nipa 주관 AI+web development camp Back-End (2023.07 - 2023.09)
-5. AWS Cloud Club (2023.11 - )
+4. AWS Cloud Club (2023.11 - )
+5. GCG on Campus (2024.09 - )
 <br>
 
 🌟 Certifications
