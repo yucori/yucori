@@ -15,31 +15,21 @@
 ---
 📚 Tech Stack
 
-Main
-<div align="left">
-	<img src="https://img.shields.io/badge/Java-E34F26?style=flat&logo=Java&logoColor=white" />
-	<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white" />
-	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
-	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
-        
-	
-</div>
+Languages
 
-<div align="left>
-	<im src=""/>
-	<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white" />
-	<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" />
-  	<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white" />
-</div>
+[![My Skills](https://skillicons.dev/icons?i=java,nodejs,js,python,cpp,c&perline=3)](https://skillicons.dev)
 
-Sub
-<div align="left">
-	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
-	<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" />
-	<img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white" />
-	
-	
-</div>
+Frameworks
+
+[![My Skills](https://skillicons.dev/icons?i=spring,express,fastapi&perline=3)](https://skillicons.dev)
+
+Tools
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,idea,vscode&perline=3)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,rabbitmq&perline=3)](https://skillicons.dev)
+
+
 
 <!--
 <br>
@@ -58,7 +48,7 @@ Sub
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
--->
+
 
 <br>
 
@@ -69,6 +59,8 @@ Sub
 4. AWS Cloud Club (2023.11 - )
 5. GCG on Campus (2024.09 - )
 <br>
+
+-->
 
 🌟 Certifications
 1. SQL Developer - qualified by Korea Data Agency (2023.10.06)
