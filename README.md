@@ -1,5 +1,5 @@
-**👩🏻‍💻 Backend Developer**   
-**🎓 Psychology & Computer Engineering**   
+**👩🏻‍💻 Love Cloud & Network Enfineering**   
+**🎓 Double major in Psychology & Computer Engineering**   
 🐹 
 <a href="https://yucori.tistory.com">Yucori's Blog</a> 
 ---
