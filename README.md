@@ -26,7 +26,6 @@ Tools
 1. SQL Developer - qualified by Korea Data Agency (2023.10.06)
 2. Engineer Information Processing - qualified by Human Resources Development Service of Korea (2024.06.18)
 3. AWS Certified Solutions Architect - Associate (2024.09.04)
-
 4. OPIc(IM2) (2024.08.11)
 5. JLPT(N3) (2024.08.13)
 
