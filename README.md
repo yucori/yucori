@@ -1,4 +1,4 @@
-**👩🏻‍💻 Love Cloud & Network Enfineering**   
+**👩🏻‍💻 Love Cloud & Network Engineering**   
 **🎓 Double major in Psychology & Computer Engineering**   
 🐹 
 <a href="https://yucori.tistory.com">Yucori's Blog</a> 
