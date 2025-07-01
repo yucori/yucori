@@ -1,5 +1,5 @@
 **👩🏻‍💻 Love Cloud & Network Engineering**   
-**🎓 Double major in Psychology & Computer Engineering**   
+**🎓 B.S. in Psychology & Computer Engineering**   
 🐹 
 <a href="https://yucori.tistory.com">Yucori's Blog</a> 
 ---
