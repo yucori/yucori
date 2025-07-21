@@ -1,9 +1,10 @@
-**👩🏻‍💻 Love Cloud & Network Engineering**   
-**🎓 B.S. in Psychology & Computer Engineering**   
+**👩🏻‍💻 Love Cloud & Engineering**   
+**🎓 B.S. in Psychology & Computer Engineering**  
+
+---
+### Blog
 🐹 
 <a href="https://yucori.tistory.com">Yucori's Blog</a> 
----
-
 
 ### 📚 Tech Stack
 
@@ -22,12 +23,6 @@ Tools
 [![My Skills](https://skillicons.dev/icons?i=aws,docker,rabbitmq&perline=3)](https://skillicons.dev)
 
 
-### 🌟 Certifications
-1. SQL Developer - qualified by Korea Data Agency (2023.10.06)
-2. Engineer Information Processing - qualified by Human Resources Development Service of Korea (2024.06.18)
-3. AWS Certified Solutions Architect - Associate (2024.09.04)
-4. OPIc(IM2) (2024.08.11)
-5. JLPT(N3) (2024.08.13)
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yucori&show_icons=true)
