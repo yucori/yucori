@@ -1,5 +1,5 @@
-**👩🏻‍💻 Love Cloud & Engineering**   
-**🎓 B.S. in Psychology & Computer Engineering**  
+### **👩🏻‍💻 Love Cloud & Engineering**   
+### **🎓 B.S. in Psychology & Computer Engineering**  
 
 ---
 ### Blog
