@@ -21,9 +21,3 @@ Tools
 [![My Skills](https://skillicons.dev/icons?i=mysql,idea,vscode&perline=3)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=aws,docker,rabbitmq&perline=3)](https://skillicons.dev)
-
-
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yucori&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yucori&layout=compact)
