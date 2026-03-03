@@ -1,6 +1,6 @@
 ### **👩🏻‍💻 Love Cloud & Engineering**
 ### **🎓 B.S. in Psychology & Computer Engineering**
-Keep Learning and Growing
+Draw our 🧠 as Code
 
 ---
 ### Blog
